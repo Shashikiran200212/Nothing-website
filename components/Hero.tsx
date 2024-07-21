@@ -21,7 +21,7 @@ const Hero = () => {
               <div className='font-mono text-4xl md:text-6xl lg:text-8xl'>Phone 2</div>
             </TextRevealCardTitle>
             <TextRevealCardDescription>
-              <div className='font-mono text-base md:text-lg lg:text-xl'>The ultimate version of Phone 2. Built from our community's imagination.</div>
+              <div className='font-mono text-base md:text-lg lg:text-xl'>The ultimate version of Phone 2. Built from our communitys imagination.</div>
             </TextRevealCardDescription>
           </TextRevealCard>
         </div>
