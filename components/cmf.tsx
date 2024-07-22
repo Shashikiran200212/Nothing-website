@@ -27,7 +27,7 @@ const Cmf = () => {
             <TextRevealCardDescription>
               <div className="font-mono text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl mt-3 text-left">
                 <p className="sm:w-full md:w-full lg:w-full xl:w-full">
-                  Elite hardware comes together with advanced computational photography algorithms via Nothing's TrueLens Engine 2.0.
+                  Elite hardware comes together with advanced computational photography algorithms via Nothing&apos;s TrueLens Engine 2.0.
                 </p>
               </div>
             </TextRevealCardDescription>
