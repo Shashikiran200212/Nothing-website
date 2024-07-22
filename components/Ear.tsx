@@ -15,7 +15,7 @@ const Ear = () => {
               <div className='font-mono text-4xl md:text-6xl lg:text-8xl'>Ear 2</div>
             </TextRevealCardTitle>
             <TextRevealCardDescription>
-              <div className='font-mono text-base md:text-lg lg:text-xl'>Our best audio experience ever. Ear is an expression of elite craftsmanship.</div>
+              <div className='font-mono text-xs md:text-lg lg:text-xl'>Our best audio experience ever. <br />Ear is an expression of elite craftsmanship.</div>
             </TextRevealCardDescription>
           </TextRevealCard>
           <div className='px-9'>

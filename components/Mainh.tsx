@@ -9,7 +9,7 @@ const Mainh = () => {
       <ContainerScroll
         titleComponent={
           <>
-            <h1 className="text-4xl font-semibold text-black dark:text-white">
+            <h1 className="text-4xl font-semibold text-black dark:text-white py-12 md:mt-0">
              <div className='m-6 font-mono font-light text-[#e9ede9]'> <q>Plus</q> <q>More</q> <q>Extra</q></div>
               <span className="text-4xl md:text-[6rem] font-bold mt-1 leading-none">
                 <img src="logow.png" alt="" />

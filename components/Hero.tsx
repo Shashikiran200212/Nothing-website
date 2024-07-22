@@ -12,7 +12,7 @@ const Hero = () => {
           <img src="/hero1.png" alt="" className='object-contain' />
         </div>
         <div className="flex items-center justify-center h-full md:h-[50rem] rounded-2xl w-full">
-          <div className="flex flex-col w-full">
+          <div className=" w-full">
             <TextRevealCard
               text="Snapdragon 8 series"
               revealText="Optimal performance "
@@ -22,7 +22,7 @@ const Hero = () => {
                 <div className='font-mono text-4xl md:text-6xl lg:text-8xl'>Phone 2</div>
               </TextRevealCardTitle>
               <TextRevealCardDescription>
-                <div className='font-mono text-base md:text-lg lg:text-xl'>The ultimate version of Phone 2. Built from our communitys imagination.</div>
+                <div className='font-mono text-xs md:text-lg lg:text-xl'>The ultimate version of Phone 2 <br />Built from our community&apos;s imagination.</div>
               </TextRevealCardDescription>
             </TextRevealCard>
    
