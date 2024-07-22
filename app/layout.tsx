@@ -6,8 +6,9 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NOTHING",
+  title: "Nothing",
   description: "",
+  icons:'icon.png'
 };
 
 export default function RootLayout({
