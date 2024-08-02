@@ -1,6 +1,9 @@
+"use client"
+
 import React from 'react'
 import { ContainerScroll } from './ui/container-scroll-animation'
 import Image from 'next/image'
+
 
 const Mainh = () => {
   return (
@@ -19,13 +22,14 @@ const Mainh = () => {
         }
       >
         <Image
-          src={`/hbg.png`}
+          src={`/hbg.webp`}
           alt="hero"
           height={720}
           width={1400}
           className="mx-auto rounded-2xl object-cover"
           draggable={false}
         />
+
       </ContainerScroll>
     </div>
   )

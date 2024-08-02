@@ -12,7 +12,7 @@ export default function Home() {
     <main className="relative bg-black flex justify-center items-center flex-col overflow-clip mx-auto  ">
       <div className="w-full">
           <FloatingNav navItems={navItems}/>
-          <Mainh/>
+          <Mainh/>  
           <Hero/>
           <Ear/>
           <Earc/>
